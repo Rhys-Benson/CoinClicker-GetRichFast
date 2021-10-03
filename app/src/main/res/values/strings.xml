@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="click_me">Click Me!</string>
+    <string name="upgrade_click_strength">Click Strength</string>
+    <string name="upgrades">--------Upgrades--------</string>
+    <string name="starting_cost">Cost: 25</string>
+    <string name="updated_cost">Cost: %1$d</string>
+    <string name="upgrade_auto_spd">Auto Clicker</string>
+    <string name="upgrade_auto_str">Auto Strength</string>
+    <string name="coins">coins</string>
+
+</resources>
